@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Dia 0: 28 de março, 2023
+### Dia 1: 28 de março, 2023
 
 **Progresso do dia:** Criei um site que calcula a idade em dias.
 
@@ -8,11 +8,11 @@
 
 **Link do trabalho:** [App de Idade para Dias](https://moisesxavier23.github.io/100-dias-de-codigo/M%C3%AAs%201/Semana%201/Dia%201/)
 
-<!-- ### Dia 1: 21 de março, 2023
+### Dia 2: 29 de março, 2023
 
 **Progresso do dia:** Criei um site que procura a palavra Nemo em uma frase.
 
-**Aprendizados:** foi um desafio beeeem fácil só tive uma pequena dificuldade para adicionar um elemento no body sem que ele se repetisse.
+**Aprendizados:** foi um desafio beeeem fácil e legal só tive uma pequena dificuldade para adicionar um elemento no body sem que ele se repetisse e utilizei pela primeira um audio pelo javascript.
 
-**Link do trabalho:** [App de Procure o Nemo](https://moisesxavier23.github.io/100-dias-de-codigo-JS/M%C3%AAs%201/Semana%201/Dia%202/) -->
+**Link do trabalho:** [App de Procure o Nemo](https://moisesxavier23.github.io/100-dias-de-codigo/M%C3%AAs%201/Semana%201/Dia%202/)
 
